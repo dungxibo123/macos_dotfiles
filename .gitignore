@@ -3,6 +3,6 @@
 !.config/*
 !.config/*/*
 !.config/*/scripts/*
-!.config/*/*/*.lua
-!.config/*/*/*/*.lua
+!.config/*/lua/*
+!.config/*/lua/*/*
 !.zshrc
