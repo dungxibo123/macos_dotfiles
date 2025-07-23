@@ -1,0 +1,59 @@
+shell-integration = zsh
+theme = Dracula+
+
+
+# Apperance
+background-opacity = 1
+## Mouse
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 2
+
+## Font
+font-family = FiraCode Nerd Font Mono
+font-thicken = true
+
+
+# Initial working directory
+# initial-command = neofetch
+
+# Window
+window-padding-balance = true 
+window-save-state = always
+window-inherit-working-directory = true
+macos-titlebar-style=transparent
+
+# Keybinding
+
+
+## Unbind
+keybind = super+n=unbind
+keybind = super+d=unbind
+keybind = super+shift+d=unbind
+keybind = shift+g=unbind
+
+
+
+## Navigation
+keybind = super+f=toggle_fullscreen
+
+
+## Split-related configurations
+
+#### Tab open/close
+keybind = super+n>backslash=new_split:right
+keybind = super+n>minus=new_split:down
+
+#### between splits navigation
+keybind = super+h=goto_split:left
+keybind = super+l=goto_split:right
+keybind = super+j=goto_split:bottom
+keybind = super+k=goto_split:top
+
+
+#### Split sizes
+keybind = super+option+h=resize_split:left,10
+keybind = super+option+l=resize_split:right,10
+keybind = super+option+j=resize_split:down,10
+keybind = super+option+k=resize_split:up,10
+
+

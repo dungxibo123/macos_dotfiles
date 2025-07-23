@@ -1,0 +1,8 @@
+*
+!.config
+!.config/*
+!.config/*/*
+!.config/*/scripts/*
+!.config/*/*/*.lua
+!.config/*/*/*/*.lua
+!.zshrc

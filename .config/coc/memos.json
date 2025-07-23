@@ -1,0 +1,2152 @@
+{
+  "coc-python|/Users/dungvo/MMCTS": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:551f032d2883937ce35a7be688f0c664": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:551f032d2883937ce35a7be688f0c664": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/dungvo/MMCTS": {
+      "architecture": 3,
+      "path": "/Users/dungvo/miniconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/Users/dungvo/miniconda3",
+      "fileHash": "15731d67c4b68e3a33ef81ac72c3dff3e2456794ae952dad4d3c6c8324e0ca9f363c24da88bc3e6e64f9d6ecae9ad5a7e81bc74fb221c7b6a5320aa463ad6786",
+      "type": "Unknown"
+    }
+  },
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/opt/homebrew/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+        "fileHash": "bf56e6c56bed4278c3bf30a8892999b1502018a8824f4f26b723c680e2051103d6fcfa063980bdaed1b3cedd0f21c27eefec912cbb6718ce9010790cfa67d775"
+      },
+      "expiry": 1744998358238
+    },
+    "/opt/homebrew/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+        "fileHash": "d2f6738fc8aa835e876d1537432f0d181a902fa3d5bb8632735150892add0fc913ac082380d9e7f2a6d93c89f3e7d39eb0f841ccd723b4c5b58a180b46ea877f"
+      },
+      "expiry": 1744998358240
+    },
+    "/Users/dungvo/miniconda3/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3",
+        "fileHash": "56d6cb797904a54e8123ca2d4821f4f3cd9f142e2193a6f3cc9d9a70081e263384bf53287ed46f9af6bc77cfe9507b0c7ea6c83fe7775719d756bad0e3a315b1"
+      },
+      "expiry": 1744821607453
+    },
+    "/Users/dungvo/miniconda3/bin/python3.1.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/bin/python3.1",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3",
+        "fileHash": "59d23f300ce768743b20793f91c93268249d168db1245fe1736e33b66c5c3f028a5a04191c38e062b598f859669016b78961b5c5b475a76dbbffcd82811aaee2"
+      },
+      "expiry": 1744821607408
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "a25f34ead6885fa8eebaa8b0310563b998e026bdc4250f6bee55a7ef95001443f31d88da3d6325d96b6e6e6391ef2bda2af06214097d263b899ebcf306e85e7c"
+      },
+      "expiry": 1744998358484
+    },
+    "/Users/dungvo/miniconda3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3",
+        "fileHash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e"
+      },
+      "expiry": 1744998358234
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+        "fileHash": "f071da084fd14d5be67e67f2fa4b25632712744c1340185291832a2c82a10522dee04017d4015b1091af860aa3bc4bbd761b02c6bd41c5ca653d342d44aaa04d",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "f071da084fd14d5be67e67f2fa4b25632712744c1340185291832a2c82a10522dee04017d4015b1091af860aa3bc4bbd761b02c6bd41c5ca653d342d44aaa04d",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/Users/dungvo/miniconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.9-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.9-final"
+      },
+      "sysPrefix": "/Users/dungvo/miniconda3",
+      "fileHash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/Users/dungvo/miniconda3",
+      "envName": "base",
+      "cachedEntry": true,
+      "displayName": "Python 3.12.9 64-bit ('base': conda)"
+    },
+    "/Users/dungvo/miniconda3/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3",
+        "fileHash": "77acdcad40b7d56f45e480405a90acbf1fd17d68ddc32e25642ccb1a6c016f9c266b6eaf1261805bbd2bb134fe3a175b9459e64f0159ce040be1fc1cb166c9c3"
+      },
+      "expiry": 1743753507501
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+        "fileHash": "d2f6738fc8aa835e876d1537432f0d181a902fa3d5bb8632735150892add0fc913ac082380d9e7f2a6d93c89f3e7d39eb0f841ccd723b4c5b58a180b46ea877f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+        "fileHash": "bf56e6c56bed4278c3bf30a8892999b1502018a8824f4f26b723c680e2051103d6fcfa063980bdaed1b3cedd0f21c27eefec912cbb6718ce9010790cfa67d775",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "a25f34ead6885fa8eebaa8b0310563b998e026bdc4250f6bee55a7ef95001443f31d88da3d6325d96b6e6e6391ef2bda2af06214097d263b899ebcf306e85e7c",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "a25f34ead6885fa8eebaa8b0310563b998e026bdc4250f6bee55a7ef95001443f31d88da3d6325d96b6e6e6391ef2bda2af06214097d263b899ebcf306e85e7c",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "a25f34ead6885fa8eebaa8b0310563b998e026bdc4250f6bee55a7ef95001443f31d88da3d6325d96b6e6e6391ef2bda2af06214097d263b899ebcf306e85e7c",
+        "type": "Unknown"
+      }
+    ],
+    "/Users/dungvo/miniconda3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/dungvo/miniconda3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.9-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.9-final"
+          },
+          "sysPrefix": "/Users/dungvo/miniconda3",
+          "fileHash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/dungvo/miniconda3",
+          "envName": "base",
+          "cachedEntry": true,
+          "displayName": "Python 3.12.9 64-bit ('base': conda)",
+          "__store": true
+        }
+      },
+      "expiry": 1744998358494
+    },
+    "/Users/dungvo/miniconda3/envs/mba_thesis/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/mba_thesis/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/mba_thesis",
+        "fileHash": "1eb2221e1d4161837a11295c5548b974f17a883636d8b81f6cae3029c79a076a17893d84f881d66d6e159c683ce3a75cec406eaf77c5b214616a463e18af0928"
+      },
+      "expiry": 1743751287222
+    },
+    "/Users/dungvo/miniconda3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.9 64-bit ('miniconda3': virtualenv)",
+        "hash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e-e8c8f7b5af519a0506b5034a44987061"
+      },
+      "expiry": 1744998358507
+    },
+    "/Users/dungvo/miniconda3/envs/labelme/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/labelme/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/labelme",
+        "fileHash": "88ac655a39d6d4f8c0e8c0dd2dfd36201d68edac91e056e0c41bd534a3c7104507fedd017b9366d4e3cbb18f945457d53935b4b37acd6d79e6783650f5c5df39"
+      },
+      "expiry": 1743751287223
+    },
+    "/Users/dungvo/miniconda3/envs/uniform/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/uniform/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.19-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 19,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.19-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/uniform",
+        "fileHash": "fc8db5ccc767eb0a4a8037b37df6d086fed29b083b15dfb2f00a9074434ad8d8aad9bff163d7d88edf19ac863a1ba4dc3671ee36f55b2436eac1f29ed2cd7bcc"
+      },
+      "expiry": 1743751287155
+    },
+    "/Users/dungvo/miniconda3/envs/mlx/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/mlx/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.1-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.1-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/mlx",
+        "fileHash": "ef46404a0d86ad8111cffbc9322e4d846fc957401443c24712396fbb71c26d11262bf25c437ecab861d87ebf2412bb9d49a3667f13bbefcfd21247311b3e8bd1"
+      },
+      "expiry": 1743751287229
+    },
+    "/Users/dungvo/miniconda3/envs/thesis/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/thesis/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.1-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.1-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/thesis",
+        "fileHash": "c71163e11cf86e3beeb9e69277a80808ceaa1ff9f0d970c692484bc122c7488b9423ea0856c726be8d5c77aac7b595c037c78c26de9a2a7bcc162d96fcdb3a8c"
+      },
+      "expiry": 1743751287230
+    },
+    "CONDA_ENVIRONMENTS": {},
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3",
+        "fileHash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/dungvo/miniconda3",
+        "envName": "miniconda3"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/fastapi/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/fastapi",
+        "fileHash": "c7a8743262de34051fa9563a7798f2483d0ecadb1115f591a9707f157a0d6b5a90e0848dabd2bb390074ada980958f557762d0d930a82cb1483c3d2f6273ea3a",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/dungvo/.conda/envs/fastapi",
+        "envName": "fastapi"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/ray/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/ray",
+        "fileHash": "15312f7bfad6dcff9e8549ce5baf12885fd8a0d5963a741551fa4539a4bce6af5d05a3d7e1da2f995a9ddb824f29ba9e833a27ee6dc5fe7a99ab1cb0f8a219fa",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/dungvo/.conda/envs/ray",
+        "envName": "ray"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/fastapi/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/fastapi",
+        "fileHash": "c7a8743262de34051fa9563a7798f2483d0ecadb1115f591a9707f157a0d6b5a90e0848dabd2bb390074ada980958f557762d0d930a82cb1483c3d2f6273ea3a",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/dungvo/.conda/envs/fastapi"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/ray/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/ray",
+        "fileHash": "15312f7bfad6dcff9e8549ce5baf12885fd8a0d5963a741551fa4539a4bce6af5d05a3d7e1da2f995a9ddb824f29ba9e833a27ee6dc5fe7a99ab1cb0f8a219fa",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/dungvo/.conda/envs/ray"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3",
+        "fileHash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/dungvo/miniconda3"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3",
+        "fileHash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/dungvo/miniconda3"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/Users/dungvo/miniconda3/envs/labelme/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.2 64-bit ('labelme': conda)",
+        "hash": "88ac655a39d6d4f8c0e8c0dd2dfd36201d68edac91e056e0c41bd534a3c7104507fedd017b9366d4e3cbb18f945457d53935b4b37acd6d79e6783650f5c5df39-12ce9b00f7603958e38969be34599180"
+      },
+      "expiry": 1728725481377
+    },
+    "/Users/dungvo/miniconda3/envs/mba_thesis/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.2 64-bit ('mba_thesis': conda)",
+        "hash": "1eb2221e1d4161837a11295c5548b974f17a883636d8b81f6cae3029c79a076a17893d84f881d66d6e159c683ce3a75cec406eaf77c5b214616a463e18af0928-b0466761f36deef7e8b81345f873c434"
+      },
+      "expiry": 1728725481379
+    },
+    "/Users/dungvo/miniconda3/envs/mlx/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.1 64-bit ('mlx': conda)",
+        "hash": "ef46404a0d86ad8111cffbc9322e4d846fc957401443c24712396fbb71c26d11262bf25c437ecab861d87ebf2412bb9d49a3667f13bbefcfd21247311b3e8bd1-5930b7cc025b47468376620c0108393d"
+      },
+      "expiry": 1728725481385
+    },
+    "/Users/dungvo/miniconda3/envs/thesis/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.1 64-bit ('thesis': conda)",
+        "hash": "c71163e11cf86e3beeb9e69277a80808ceaa1ff9f0d970c692484bc122c7488b9423ea0856c726be8d5c77aac7b595c037c78c26de9a2a7bcc162d96fcdb3a8c-46cceb3b21ab7dd781069f7bca2c3dd4"
+      },
+      "expiry": 1728725481380
+    },
+    "/Users/dungvo/miniconda3/envs/uniform/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.19 64-bit ('uniform': conda)",
+        "hash": "fc8db5ccc767eb0a4a8037b37df6d086fed29b083b15dfb2f00a9074434ad8d8aad9bff163d7d88edf19ac863a1ba4dc3671ee36f55b2436eac1f29ed2cd7bcc-3239fd4cb493c4e4a77f851df20b0a74"
+      },
+      "expiry": 1728725481381
+    },
+    "/opt/homebrew/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit",
+        "hash": "d2f6738fc8aa835e876d1537432f0d181a902fa3d5bb8632735150892add0fc913ac082380d9e7f2a6d93c89f3e7d39eb0f841ccd723b4c5b58a180b46ea877f-de7d747eaac009ad19577d00aabec046"
+      },
+      "expiry": 1744998358583
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "a25f34ead6885fa8eebaa8b0310563b998e026bdc4250f6bee55a7ef95001443f31d88da3d6325d96b6e6e6391ef2bda2af06214097d263b899ebcf306e85e7c-fed5c3cfbddbed1648b1de93aca59415"
+      },
+      "expiry": 1744998358588
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/Users/dungvo/miniconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.9-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.9-final"
+      },
+      "sysPrefix": "/Users/dungvo/miniconda3",
+      "fileHash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/Users/dungvo/miniconda3",
+      "envName": "base",
+      "cachedEntry": true,
+      "displayName": "Python 3.12.9 64-bit ('base': conda)"
+    },
+    "/Users/dungvo/miniconda3/envs/labelme/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "88ac655a39d6d4f8c0e8c0dd2dfd36201d68edac91e056e0c41bd534a3c7104507fedd017b9366d4e3cbb18f945457d53935b4b37acd6d79e6783650f5c5df39",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/dungvo/miniconda3/envs/labelme/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.2-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.2-final"
+          },
+          "sysPrefix": "/Users/dungvo/miniconda3/envs/labelme",
+          "fileHash": "88ac655a39d6d4f8c0e8c0dd2dfd36201d68edac91e056e0c41bd534a3c7104507fedd017b9366d4e3cbb18f945457d53935b4b37acd6d79e6783650f5c5df39",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/dungvo/miniconda3/envs/labelme",
+          "envName": "labelme",
+          "displayName": "Python 3.12.2 64-bit ('labelme': conda)"
+        }
+      },
+      "expiry": 1728725481417
+    },
+    "/Users/dungvo/miniconda3/envs/mba_thesis/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "1eb2221e1d4161837a11295c5548b974f17a883636d8b81f6cae3029c79a076a17893d84f881d66d6e159c683ce3a75cec406eaf77c5b214616a463e18af0928",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/dungvo/miniconda3/envs/mba_thesis/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.2-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.2-final"
+          },
+          "sysPrefix": "/Users/dungvo/miniconda3/envs/mba_thesis",
+          "fileHash": "1eb2221e1d4161837a11295c5548b974f17a883636d8b81f6cae3029c79a076a17893d84f881d66d6e159c683ce3a75cec406eaf77c5b214616a463e18af0928",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/dungvo/miniconda3/envs/mba_thesis",
+          "envName": "mba_thesis",
+          "displayName": "Python 3.12.2 64-bit ('mba_thesis': conda)"
+        }
+      },
+      "expiry": 1728725481422
+    },
+    "/Users/dungvo/miniconda3/envs/mlx/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "ef46404a0d86ad8111cffbc9322e4d846fc957401443c24712396fbb71c26d11262bf25c437ecab861d87ebf2412bb9d49a3667f13bbefcfd21247311b3e8bd1",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/dungvo/miniconda3/envs/mlx/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.1-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.1-final"
+          },
+          "sysPrefix": "/Users/dungvo/miniconda3/envs/mlx",
+          "fileHash": "ef46404a0d86ad8111cffbc9322e4d846fc957401443c24712396fbb71c26d11262bf25c437ecab861d87ebf2412bb9d49a3667f13bbefcfd21247311b3e8bd1",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/dungvo/miniconda3/envs/mlx",
+          "envName": "mlx",
+          "displayName": "Python 3.12.1 64-bit ('mlx': conda)"
+        }
+      },
+      "expiry": 1728725481437
+    },
+    "/Users/dungvo/miniconda3/envs/thesis/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c71163e11cf86e3beeb9e69277a80808ceaa1ff9f0d970c692484bc122c7488b9423ea0856c726be8d5c77aac7b595c037c78c26de9a2a7bcc162d96fcdb3a8c",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/dungvo/miniconda3/envs/thesis/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.1-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.1-final"
+          },
+          "sysPrefix": "/Users/dungvo/miniconda3/envs/thesis",
+          "fileHash": "c71163e11cf86e3beeb9e69277a80808ceaa1ff9f0d970c692484bc122c7488b9423ea0856c726be8d5c77aac7b595c037c78c26de9a2a7bcc162d96fcdb3a8c",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/dungvo/miniconda3/envs/thesis",
+          "envName": "thesis",
+          "displayName": "Python 3.12.1 64-bit ('thesis': conda)"
+        }
+      },
+      "expiry": 1728725481426
+    },
+    "/Users/dungvo/miniconda3/envs/uniform/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fc8db5ccc767eb0a4a8037b37df6d086fed29b083b15dfb2f00a9074434ad8d8aad9bff163d7d88edf19ac863a1ba4dc3671ee36f55b2436eac1f29ed2cd7bcc",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/dungvo/miniconda3/envs/uniform/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.19-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 19,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.19-final"
+          },
+          "sysPrefix": "/Users/dungvo/miniconda3/envs/uniform",
+          "fileHash": "fc8db5ccc767eb0a4a8037b37df6d086fed29b083b15dfb2f00a9074434ad8d8aad9bff163d7d88edf19ac863a1ba4dc3671ee36f55b2436eac1f29ed2cd7bcc",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/dungvo/miniconda3/envs/uniform",
+          "envName": "uniform",
+          "displayName": "Python 3.9.19 64-bit ('uniform': conda)"
+        }
+      },
+      "expiry": 1728725481430
+    },
+    "/opt/homebrew/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d2f6738fc8aa835e876d1537432f0d181a902fa3d5bb8632735150892add0fc913ac082380d9e7f2a6d93c89f3e7d39eb0f841ccd723b4c5b58a180b46ea877f",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.3-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.3-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+          "fileHash": "d2f6738fc8aa835e876d1537432f0d181a902fa3d5bb8632735150892add0fc913ac082380d9e7f2a6d93c89f3e7d39eb0f841ccd723b4c5b58a180b46ea877f",
+          "type": "Unknown",
+          "displayName": "Python 3.12.3 64-bit"
+        }
+      },
+      "expiry": 1744998358603
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a25f34ead6885fa8eebaa8b0310563b998e026bdc4250f6bee55a7ef95001443f31d88da3d6325d96b6e6e6391ef2bda2af06214097d263b899ebcf306e85e7c",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
+          "fileHash": "a25f34ead6885fa8eebaa8b0310563b998e026bdc4250f6bee55a7ef95001443f31d88da3d6325d96b6e6e6391ef2bda2af06214097d263b899ebcf306e85e7c",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1744998358608
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/Users/dungvo/miniconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.9-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.9-final"
+      },
+      "sysPrefix": "/Users/dungvo/miniconda3",
+      "fileHash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/Users/dungvo/miniconda3",
+      "envName": "base",
+      "cachedEntry": true,
+      "displayName": "Python 3.12.9 64-bit ('base': conda)"
+    },
+    "ProposeLSBanner": false,
+    "pylint_DisableLinterInstallPrompt": true,
+    "/Users/dungvo/miniconda3/envs/uniform/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/uniform/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.19-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 19,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.19-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/uniform",
+        "fileHash": "1e36fc001668623ea19e50591448f53698796ec06af04abc5af7a5977c9d0a603b0fe021e69b17f89d63e06055521f1d0e77036ea14e8cb3e5294d90e04d7cec"
+      },
+      "expiry": 1738135379277
+    },
+    "/Users/dungvo/miniconda3/envs/uniform/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/uniform/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.19-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 19,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.19-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/uniform",
+        "fileHash": "fb60135f12b0ba1f71e6168344edca326d583db8b2697fc3f5e841b8fcbd279c8e11af410e4eea5849db5fc64850a3bb9e6425c359919610a891a5d94bff2fc6"
+      },
+      "expiry": 1738135379276
+    },
+    "/opt/homebrew/opt/python@3.12/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+        "fileHash": "f071da084fd14d5be67e67f2fa4b25632712744c1340185291832a2c82a10522dee04017d4015b1091af860aa3bc4bbd761b02c6bd41c5ca653d342d44aaa04d"
+      },
+      "expiry": 1744998358242
+    },
+    "/opt/homebrew/opt/python@3.12/bin/python3.12.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit",
+        "hash": "f071da084fd14d5be67e67f2fa4b25632712744c1340185291832a2c82a10522dee04017d4015b1091af860aa3bc4bbd761b02c6bd41c5ca653d342d44aaa04d-e7407f8fd9488424e26aed0b08522127"
+      },
+      "expiry": 1744998358406
+    },
+    "/opt/homebrew/opt/python@3.12/bin/python3.12.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f071da084fd14d5be67e67f2fa4b25632712744c1340185291832a2c82a10522dee04017d4015b1091af860aa3bc4bbd761b02c6bd41c5ca653d342d44aaa04d",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.3-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.3-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+          "fileHash": "f071da084fd14d5be67e67f2fa4b25632712744c1340185291832a2c82a10522dee04017d4015b1091af860aa3bc4bbd761b02c6bd41c5ca653d342d44aaa04d",
+          "type": "Unknown",
+          "displayName": "Python 3.12.3 64-bit"
+        }
+      },
+      "expiry": 1744998358458
+    },
+    "/Users/dungvo/miniconda3/envs/pelican/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/pelican/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.10-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.10-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/pelican",
+        "fileHash": "b511caf36ef8fe6da8c93256d194dd80ac2b53459e884d3cb47cf87176ff093fe648fed8aac96db06ee9ba5451aacf1dc48489eeebd34820c19a4ca98c43fc28"
+      },
+      "expiry": 1743751287224
+    },
+    "/Users/dungvo/miniconda3/envs/pelican/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/pelican/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.10-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.10-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/pelican",
+        "fileHash": "1949c2259d55f4f7ccfbb7643045a97273419adfea75b89c53bd03386636bf5c32e9737a6e7a9a991864cacf425404f6cea6485e61924064701e12be7f32df56"
+      },
+      "expiry": 1728801971636
+    },
+    "/Users/dungvo/miniconda3/envs/pelican/bin/python3.1.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/pelican/bin/python3.1",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.10-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.10-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/pelican",
+        "fileHash": "88878973820bc90624dc3cf932e38491dcf37d2409289c127f98039a0edd3176269d3984afd31b9974310e0eb65c5eb163232efde192109fb9d893947f312bbc"
+      },
+      "expiry": 1728801971634
+    },
+    "/Users/dungvo/miniconda3/envs/pelican/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/pelican/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.10-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.10-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/pelican",
+        "fileHash": "d3879de1c7cc8e6208591ac3b40ce1aa46f1d409282dea18f9d48af1097cdf9e1c1a571a8a7ce7e4eff4415353c58e6afb696eb195b28f0d4da16409228ea47b"
+      },
+      "expiry": 1728801971638
+    },
+    "/Users/dungvo/miniconda3/envs/mkdocs/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/mkdocs/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/mkdocs",
+        "fileHash": "ff5b6f150eca8a180a600753ccdc705c35e5b3bb7ba3b3d7b40232d99f911c80d6667217db6d3733a208de9ead45e53cb5f4e56ba7410f6e1b2e7ef132820544"
+      },
+      "expiry": 1743751287221
+    },
+    "/Users/dungvo/miniconda3/envs/probtorch/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/probtorch/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/probtorch",
+        "fileHash": "04e9194ff9f46ca717405a7482710ccdd8da980ff472b52c7d7c602cc32219a17649eeed3679fcb616030f90dbe41960dbe9e0944ee60448cefc01356db8df11"
+      },
+      "expiry": 1743751287228
+    },
+    "/Users/dungvo/miniconda3/envs/ray/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/ray/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.16-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.16-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/ray",
+        "fileHash": "184e9e7ccbd3c8e32675c56a021f778e1980b85205c9b3d845d875a0071bc445023b72c06c97f9a3a8ae9c05ca79809525025bfb1c4031274e0a27844f7bceaa"
+      },
+      "expiry": 1743615279056
+    },
+    "/Users/dungvo/miniconda3/envs/ray/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/ray/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.16-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.16-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/ray",
+        "fileHash": "2c1f634e82364f870ce618a71aeb6269d9ec473f9405f0fb595844522c26c1e376467b708aaccf1ad4a7978335651162a9d5c5af1dbe18c657984f3dc4b0370d"
+      },
+      "expiry": 1743751287156
+    },
+    "/Users/dungvo/miniconda3/envs/ray/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/ray/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.16-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.16-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/ray",
+        "fileHash": "5c420a95d7c6805ea0df8fcb652b080b2bb6cf5dd445eb63a2d8503b7c70e97742c94db49cf391a02283e45d354daf77bcded976d18b5384b5372404fbbc6a33"
+      },
+      "expiry": 1743615279123
+    },
+    "/Users/dungvo/miniconda3/envs/ray/bin/python3.1.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/ray/bin/python3.1",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.16-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.16-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/ray",
+        "fileHash": "fa78eacbf3978bf1c171855d2889419bd510ff60b69467375fc55b9395b212ee7f569356214275edf0a4224a1bc9102ee736ce86aa1c6f337132e9d2dce9fb39"
+      },
+      "expiry": 1743615279138
+    },
+    "/Users/dungvo/miniconda3/envs/ray/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.16 64-bit",
+        "hash": "2c1f634e82364f870ce618a71aeb6269d9ec473f9405f0fb595844522c26c1e376467b708aaccf1ad4a7978335651162a9d5c5af1dbe18c657984f3dc4b0370d-50ff249dddd8a9ea0245f8bf4dbe199b"
+      },
+      "expiry": 1743615279271
+    },
+    "/Users/dungvo/miniconda3/envs/ray/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "2c1f634e82364f870ce618a71aeb6269d9ec473f9405f0fb595844522c26c1e376467b708aaccf1ad4a7978335651162a9d5c5af1dbe18c657984f3dc4b0370d",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/dungvo/miniconda3/envs/ray/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.16-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.16-final"
+          },
+          "sysPrefix": "/Users/dungvo/miniconda3/envs/ray",
+          "fileHash": "2c1f634e82364f870ce618a71aeb6269d9ec473f9405f0fb595844522c26c1e376467b708aaccf1ad4a7978335651162a9d5c5af1dbe18c657984f3dc4b0370d",
+          "type": "Unknown",
+          "displayName": "Python 3.10.16 64-bit"
+        }
+      },
+      "expiry": 1743615279282
+    },
+    "/Users/dungvo/miniconda3/envs/fastapi/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/fastapi/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.16-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.16-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/fastapi",
+        "fileHash": "2ea93fa830c96b70ac4dc4ea5e5d168d670990e673227cbbcce1462e05006e9647bee592d13e061acf396c523d31c0887d6e09e6315ced736cb4d958c1e1e82e"
+      },
+      "expiry": 1743751287233
+    },
+    "/Users/dungvo/miniconda3/envs/fastapi/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/fastapi/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.16-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.16-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/fastapi",
+        "fileHash": "4b49abda027b3bb160bffc31928be03fd158b7d73753272dd249f517aeb48d69c237218012e68c9c96de3012e5a3e7893c5802b365eba58c07e9a38bc189d7f7"
+      },
+      "expiry": 1743751287225
+    },
+    "/Users/dungvo/miniconda3/envs/fastapi/bin/python3.1.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/fastapi/bin/python3.1",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.16-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.16-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/fastapi",
+        "fileHash": "6451856a3352397282d6829991a09573aa385fdbe97df799efd4e21cddd88e726486630f6a2d39352530de64ebed5751b003fc6b68e27d8b632c413292498588"
+      },
+      "expiry": 1743751287122
+    },
+    "/Users/dungvo/miniconda3/envs/fastapi/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/envs/fastapi/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.16-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.16-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3/envs/fastapi",
+        "fileHash": "1d2916bd95e1b4e2fb5376331ac8e0b52e894fc88d3be39554d74a5e126e6cac8260ac3975beb62187dd89561c2b97333cf43586aeb2f676e0ae670567595a13"
+      },
+      "expiry": 1743751287011
+    },
+    "/Users/dungvo/.conda/envs/ray/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/ray/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/ray",
+        "fileHash": "f7a934ce3265f87e830a91f4b63550d1e7cd71445faac108eeb48db102b1132ea9605c99a6086351bddb0977c4f3ead082152ae6785828fa1621b7c951bebb90"
+      },
+      "expiry": 1743761670773
+    },
+    "/Users/dungvo/.conda/envs/ray/bin/python3.1.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/ray/bin/python3.1",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/ray",
+        "fileHash": "6fb7986b9c52cda08ad13de2c95596b5c7569d874a99085d2492eaa479bebe95eeb2dd9b9d75d350ddb503c6e4bf2f7062043dc53bfaf2194cf62f762ee42ebb"
+      },
+      "expiry": 1743761670775
+    },
+    "/Users/dungvo/.conda/envs/ray/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/ray/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/ray",
+        "fileHash": "15312f7bfad6dcff9e8549ce5baf12885fd8a0d5963a741551fa4539a4bce6af5d05a3d7e1da2f995a9ddb824f29ba9e833a27ee6dc5fe7a99ab1cb0f8a219fa"
+      },
+      "expiry": 1744998358229
+    },
+    "/Users/dungvo/.conda/envs/ray/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/ray/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/ray",
+        "fileHash": "34bb48e589ceebff8137d9ca6dc9116cd75591947de17976b11871931944bd09a6394965df6d0c562206ada12cf70dec983d044f54c4cc13315be9ad611124e4"
+      },
+      "expiry": 1743761670982
+    },
+    "/Users/dungvo/.conda/envs/ray/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.9 64-bit",
+        "hash": "15312f7bfad6dcff9e8549ce5baf12885fd8a0d5963a741551fa4539a4bce6af5d05a3d7e1da2f995a9ddb824f29ba9e833a27ee6dc5fe7a99ab1cb0f8a219fa-1b85ca613173aa5c1a9f0c47a6163b7f"
+      },
+      "expiry": 1743761670993
+    },
+    "/Users/dungvo/.conda/envs/fastapi/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/fastapi/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/fastapi",
+        "fileHash": "c7a8743262de34051fa9563a7798f2483d0ecadb1115f591a9707f157a0d6b5a90e0848dabd2bb390074ada980958f557762d0d930a82cb1483c3d2f6273ea3a"
+      },
+      "expiry": 1744998358399
+    },
+    "/Users/dungvo/.conda/envs/ray/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "15312f7bfad6dcff9e8549ce5baf12885fd8a0d5963a741551fa4539a4bce6af5d05a3d7e1da2f995a9ddb824f29ba9e833a27ee6dc5fe7a99ab1cb0f8a219fa",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/dungvo/.conda/envs/ray/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.9-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.9-final"
+          },
+          "sysPrefix": "/Users/dungvo/.conda/envs/ray",
+          "fileHash": "15312f7bfad6dcff9e8549ce5baf12885fd8a0d5963a741551fa4539a4bce6af5d05a3d7e1da2f995a9ddb824f29ba9e833a27ee6dc5fe7a99ab1cb0f8a219fa",
+          "type": "Unknown",
+          "displayName": "Python 3.12.9 64-bit"
+        }
+      },
+      "expiry": 1743761671027
+    },
+    "/Users/dungvo/.conda/envs/fastapi/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/fastapi/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/fastapi",
+        "fileHash": "8499c5618eed70172408d2630679fa26200126895d8664fa103458233b8c39cdb7ccadb1177cb50f27ff7705900537da3b3a6eb540d5203ba0ee63b723e4d5f7"
+      },
+      "expiry": 1744255863416
+    },
+    "/Users/dungvo/.conda/envs/fastapi/bin/python3.1.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/fastapi/bin/python3.1",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/fastapi",
+        "fileHash": "225f9783d52c8b82e551d9694de5c64596ebb5b9c24a158342448f86dfa04fc712fac078dd2035c839f37eee0435158eac5938c4c4579cc4d9a3dddcd5b9128d"
+      },
+      "expiry": 1744255863418
+    },
+    "/Users/dungvo/.conda/envs/fastapi/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/.conda/envs/fastapi/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/.conda/envs/fastapi",
+        "fileHash": "98627526d12d1b3d4a8ab56359051e20ac48f06e9448500dc1b199bbe739a68d8bd943db705cd592154caa897ebb521272f9b5990be1ebb81e53ef279b2c50ff"
+      },
+      "expiry": 1744255863457
+    },
+    "/Users/dungvo/miniconda3/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/dungvo/miniconda3/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.9-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.9-final"
+        },
+        "sysPrefix": "/Users/dungvo/miniconda3",
+        "fileHash": "94b3c2300ba2eadd5e2234c7407a85c264f7c2bb61df4fbac8a029a4ebc7f61b1b448d2ff700949a0bb42f36089b392e7b71ea9d5550128f6940116562533f19"
+      },
+      "expiry": 1744821607411
+    }
+  },
+  "coc-python|/Users/dungvo": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/Users/dungvo/colloquial_style_transfer": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:de45a2444dc38b1c7cde61336eb019be": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:de45a2444dc38b1c7cde61336eb019be": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/dungvo/colloquial_style_transfer": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "d2f6738fc8aa835e876d1537432f0d181a902fa3d5bb8632735150892add0fc913ac082380d9e7f2a6d93c89f3e7d39eb0f841ccd723b4c5b58a180b46ea877f",
+      "type": "Unknown",
+      "displayName": "Python 3.12.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/dungvo/colloquial_tst": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d759aa27df10c4c28602caff644e8a14": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d759aa27df10c4c28602caff644e8a14": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/dungvo/colloquial_tst": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "d2f6738fc8aa835e876d1537432f0d181a902fa3d5bb8632735150892add0fc913ac082380d9e7f2a6d93c89f3e7d39eb0f841ccd723b4c5b58a180b46ea877f",
+      "type": "Unknown",
+      "displayName": "Python 3.12.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/dungvo/Downloads": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:25acfa89d668e18ea62f52929e441be1": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:25acfa89d668e18ea62f52929e441be1": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/dungvo/Downloads": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "d2f6738fc8aa835e876d1537432f0d181a902fa3d5bb8632735150892add0fc913ac082380d9e7f2a6d93c89f3e7d39eb0f841ccd723b4c5b58a180b46ea877f",
+      "type": "Unknown",
+      "displayName": "Python 3.12.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/dungvo/bloombot_test": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:c5692b6063494e7fe12517195a9b6f0a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c5692b6063494e7fe12517195a9b6f0a": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/dungvo/bloombot_test": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "d2f6738fc8aa835e876d1537432f0d181a902fa3d5bb8632735150892add0fc913ac082380d9e7f2a6d93c89f3e7d39eb0f841ccd723b4c5b58a180b46ea877f",
+      "type": "Unknown",
+      "displayName": "Python 3.12.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-json|global": {
+    "json-schema-cache": {
+      "https://json.schemastore.org/package.json": {
+        "etag": "W/\"6859f57c-ad16\"",
+        "fileName": "473f72b44c2905902dfbcc770aab7f7a.schema.json",
+        "updateTime": 1750781557675
+      },
+      "https://json.schemastore.org/jscpd.json": {
+        "etag": "W/\"6859f57c-298b\"",
+        "fileName": "22bfc1ab1ff56aae62322f6ce45dab5a.schema.json",
+        "updateTime": 1750781558558
+      },
+      "https://json.schemastore.org/semantic-release.json": {
+        "etag": "W/\"6859f57c-d4e\"",
+        "fileName": "fbc95702ba6eddb3e2de4f52e31ca82a.schema.json",
+        "updateTime": 1750781558541
+      },
+      "https://json.schemastore.org/ava.json": {
+        "etag": "W/\"6859f57c-19f0\"",
+        "fileName": "635f57185b22bce9d3a56c68f5da4ad7.schema.json",
+        "updateTime": 1750781558595
+      },
+      "https://json.schemastore.org/eslintrc.json": {
+        "etag": "W/\"6859f57c-d796\"",
+        "fileName": "c5064f140d4cfdbf4d6fbe68f68abbb1.schema.json",
+        "updateTime": 1750781558550
+      },
+      "https://json.schemastore.org/stylelintrc.json": {
+        "etag": "W/\"6859f57c-1c1fa\"",
+        "fileName": "000bfbdd14d2fb8ec5b0d59bec32ef98.schema.json",
+        "updateTime": 1750781558597
+      },
+      "https://json.schemastore.org/prettierrc.json": {
+        "etag": "W/\"6859f57c-3332\"",
+        "fileName": "ea5ab10330a3ab77dfd6d00a735b0925.schema.json",
+        "updateTime": 1750781558573
+      },
+      "https://json.schemastore.org/partial-eslint-plugins.json": {
+        "etag": "W/\"6859f57c-72d5a\"",
+        "fileName": "fc7bb6e733b774ce47be6006f0b75b87.schema.json",
+        "updateTime": 1750781559488
+      },
+      "https://json.schemastore.org/tsconfig.json": {
+        "etag": "\"03067ed5e3fdb1:0\"",
+        "fileName": "a28507e42e8bfd5fba830538461d5db3.schema.json",
+        "updateTime": 1734297139604
+      },
+      "http://json.schemastore.org/prettierrc": {
+        "etag": "W/\"6859f57b-3332\"",
+        "fileName": "b2ed7a7b6c79e58baf94e4ce160282de.schema.json",
+        "updateTime": 1750781557689
+      }
+    }
+  },
+  "coc-python|/Users/dungvo/proj_haimaker_mvp/backend": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:aeec176666bd1c3dafee794fb25a449e": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:aeec176666bd1c3dafee794fb25a449e": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/dungvo/proj_haimaker_mvp/backend": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "d2f6738fc8aa835e876d1537432f0d181a902fa3d5bb8632735150892add0fc913ac082380d9e7f2a6d93c89f3e7d39eb0f841ccd723b4c5b58a180b46ea877f",
+      "type": "Unknown",
+      "displayName": "Python 3.12.3 64-bit"
+    }
+  },
+  "coc-python|/Users/dungvo/proj_haimaker_mvp": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b651b03ddaaec49e46398c6d1ae53ce7": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b651b03ddaaec49e46398c6d1ae53ce7": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/dungvo/proj_haimaker_mvp": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "d2f6738fc8aa835e876d1537432f0d181a902fa3d5bb8632735150892add0fc913ac082380d9e7f2a6d93c89f3e7d39eb0f841ccd723b4c5b58a180b46ea877f",
+      "type": "Unknown",
+      "displayName": "Python 3.12.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/dungvo/ceartas-nova-ai-develop": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b04c9b2d18366f34cfd7b7744a5f4105": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b04c9b2d18366f34cfd7b7744a5f4105": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/dungvo/ceartas-nova-ai-develop": {
+      "architecture": 3,
+      "path": "/Users/dungvo/miniconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.9-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.9-final"
+      },
+      "sysPrefix": "/Users/dungvo/miniconda3",
+      "fileHash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/Users/dungvo/miniconda3",
+      "envName": "base",
+      "cachedEntry": true,
+      "displayName": "Python 3.12.9 64-bit ('base': conda)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/dungvo/proj_haimaker_litellm/litellm": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:a44164694d5f80b637d68c051e34b57c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:a44164694d5f80b637d68c051e34b57c": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/dungvo/proj_haimaker_litellm/litellm": {
+      "architecture": 3,
+      "path": "/Users/dungvo/miniconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.9-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.9-final"
+      },
+      "sysPrefix": "/Users/dungvo/miniconda3",
+      "fileHash": "143a785329b603461c2575a491c57cd2afceccf5b2eda3d935f1d9e1c6a937b3970e7d7590053775afed8dfc3ed2793b29939fe1ab2f6165acc93ab27842106e",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/Users/dungvo/miniconda3",
+      "envName": "base",
+      "cachedEntry": true,
+      "displayName": "Python 3.12.9 64-bit ('base': conda)"
+    }
+  }
+}
